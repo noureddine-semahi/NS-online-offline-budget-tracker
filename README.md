@@ -1,6 +1,6 @@
 # NS-online-offline-budget-tracker
 
-Check out the App here!:https:///
+Check out the App here!:https://ns-online-offline-budget-track.herokuapp.com/
 ## Table of Contents
 
 * [Description](#description)
@@ -20,7 +20,7 @@ When brought back online, the offline entries should be added to tracker.
 
 ## Deployment
 
-https:///
+https://ns-online-offline-budget-track.herokuapp.com/
 
 ## Built With
 
